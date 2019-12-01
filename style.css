@@ -144,7 +144,7 @@ table, th, tr, td {
     margin: 130% 45% 130% 45%;
 }
 #Photo {
-    content: url(Saurabh.JPG);
+    content: url(Saurabh.jpg);
     align-content: center;
     display: block;
     max-width: 20%;
